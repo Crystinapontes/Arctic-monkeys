@@ -19,27 +19,6 @@ section {
     padding-bottom: 5rem;
 }
 
-
-.nav-img {
-    width: 50px; /* Ajuste o tamanho conforme necessário */
-    height: auto; /* Manter a proporção da imagem */
-}
-
-nav {
-    padding: 10px 0; /* Ajuste o espaçamento superior e inferior do nav */
-}
-
-.nav {
-    margin-top: 0; /* Remover margem superior da lista */
-}
-
-.container {
-    padding-left: 0; /* Garantir que a imagem fique bem à esquerda */
-    padding-right: 0; /* Evitar margens extras no lado direito */
-}
-
-
-
 .nav-link {
     color: #CB6D43;
     font-weight: 600;
@@ -185,4 +164,22 @@ form-control {
 }
 .apresenta-lista{
     display: none;
+}
+
+.nav-img {
+    width: 50px; /* Ajuste o tamanho conforme necessário */
+    height: auto; /* Manter a proporção da imagem */
+}
+
+nav {
+    padding: 10px 0; /* Ajuste o espaçamento superior e inferior do nav */
+}
+
+.nav {
+    margin-top: 0; /* Remover margem superior da lista */
+}
+
+.container {
+    padding-left: 0; /* Garantir que a imagem fique bem à esquerda */
+    padding-right: 0; /* Evitar margens extras no lado direito */
 }
