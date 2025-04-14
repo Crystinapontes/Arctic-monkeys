@@ -20,6 +20,25 @@ section {
 }
 
 
+.nav-img {
+    width: 50px; /* Ajuste o tamanho conforme necessário */
+    height: auto; /* Manter a proporção da imagem */
+}
+
+nav {
+    padding: 10px 0; /* Ajuste o espaçamento superior e inferior do nav */
+}
+
+.nav {
+    margin-top: 0; /* Remover margem superior da lista */
+}
+
+.container {
+    padding-left: 0; /* Garantir que a imagem fique bem à esquerda */
+    padding-right: 0; /* Evitar margens extras no lado direito */
+}
+
+
 .nav-link {
     color: #CB6D43;
     font-weight: 600;
@@ -31,9 +50,9 @@ section {
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
-    border-radius: 8px;
+    border-radius: 80px;
     width: 100%;
-    height: 6px;
+    height: 606px;
     padding: 40px;
     margin: 0 auto;
 }
