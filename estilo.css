@@ -21,22 +21,22 @@ section {
 
 
 .nav-img {
-    width: 50px; /* Ajuste o tamanho conforme necessário */
-    height: auto; /* Manter a proporção da imagem */
+    width: 50px; 
+    height: auto;
 }
 
 nav {
-    padding: 10px 0; /* Ajuste o espaçamento superior e inferior do nav */
+    padding: 10px 0;
 }
 
 .nav {
-    margin-top: 0; /* Remover margem superior da lista */
+    margin-top: 0;
 }
 
 .container {
-    padding-left: 0; /* Garantir que a imagem fique bem à esquerda */
-    padding-right: 0; /* Evitar margens extras no lado direito */
-}
+    padding-left: 0;
+    padding-right: 0;
+
 
 
 .nav-link {
